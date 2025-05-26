@@ -8,3 +8,6 @@ Today i tried new pens within procreate, a bic crystal one and it was really enj
 
 **25th May 2025**
 Today i am showing up! I am currently trying GitHub desktop, along with VS Code. This way the VS Code surely must be forced to work along side the repo? I'm not sure what i've done to the local set up for it to stop working on VSCode standalone. Sigh. Here goes the test.
+
+**26th May 2025**
+CS50 Week one brainstorming for scratch. And restarting freeCodeCamp's course.
